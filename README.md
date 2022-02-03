@@ -1,3 +1,11 @@
+# React Calculator
+
+This is a basic calculator app that was created using JavaScript, CSS, and React.js
+
+When you run it on your local machine, it should look something like this:
+
+[i](https://github.com/MasonBoom/React-calculator/blob/main/React%20App%20-%20Google%20Chrome%202_1_2022%2010_32_52%20PM%20(3).png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
