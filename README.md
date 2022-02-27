@@ -2,7 +2,7 @@
 
 This is a basic calculator app that was created using JavaScript, CSS, and React.js
 
-When you run it on your local machine, it should look something like this:
+When you run it on your desktop PC or laptop, it should look something like the image below:
 
 ![i](https://github.com/MasonBoom/React-calculator/blob/main/React%20App%20-%20Google%20Chrome%202_1_2022%2010_32_52%20PM%20(3).png?raw=true)
 
